@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fuelpassgenerator/static/css/main.80a07311.chunk.css",
+    "main.js": "/fuelpassgenerator/static/js/main.4d0514d0.chunk.js",
+    "main.js.map": "/fuelpassgenerator/static/js/main.4d0514d0.chunk.js.map",
+    "runtime-main.js": "/fuelpassgenerator/static/js/runtime-main.aaa46cd4.js",
+    "runtime-main.js.map": "/fuelpassgenerator/static/js/runtime-main.aaa46cd4.js.map",
+    "static/js/2.8433028b.chunk.js": "/fuelpassgenerator/static/js/2.8433028b.chunk.js",
+    "static/js/2.8433028b.chunk.js.map": "/fuelpassgenerator/static/js/2.8433028b.chunk.js.map",
+    "index.html": "/fuelpassgenerator/index.html",
+    "precache-manifest.e5729061b1ddf20147e7204c90196736.js": "/fuelpassgenerator/precache-manifest.e5729061b1ddf20147e7204c90196736.js",
+    "service-worker.js": "/fuelpassgenerator/service-worker.js",
+    "static/css/main.80a07311.chunk.css.map": "/fuelpassgenerator/static/css/main.80a07311.chunk.css.map",
+    "static/js/2.8433028b.chunk.js.LICENSE.txt": "/fuelpassgenerator/static/js/2.8433028b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa46cd4.js",
+    "static/js/2.8433028b.chunk.js",
+    "static/css/main.80a07311.chunk.css",
+    "static/js/main.4d0514d0.chunk.js"
+  ]
+}
