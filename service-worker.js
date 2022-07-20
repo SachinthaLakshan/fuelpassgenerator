@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fuelpassgenerator/precache-manifest.e5729061b1ddf20147e7204c90196736.js"
+  "/fuelpassgenerator/precache-manifest.4f004a9d615d4a086d65c78857532fed.js"
 );
 
 self.addEventListener('message', (event) => {
